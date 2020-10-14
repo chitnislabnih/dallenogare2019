@@ -3,15 +3,23 @@ Raw data and statistical tests for Dalle Nogare et al 2019.
 
 
 Figure 2E, F
+
 Raw Data: cell_positions.csv
+
 Jupyter Notebook: Superficial_Cell_HeatMap_Fig2.ipynb
 
+
 Figure 3B, G, I, K, M
+
 Raw Data: apical_intact_angle.csv, apical_DMSO_angle.csv, apical_SU5402_angle.csv, basal_DMSO_angle.csv, basal_SU5402_angle.csv
+
 Jupyter Notebook: Radial_Direction_plots_Fig3_6_7.ipynb
 
+
 Figure 3E
+
 Raw Data: actin_flow.csv
+
 Jupyter Notebook: Retrograde_actin_flow_Fig3.ipynb
 
 Figure 4G
