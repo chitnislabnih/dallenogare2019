@@ -39,7 +39,7 @@ Jupyter Notebook: PLLP_Height_before_and_after_skinning.ipynb
 <br>
 <b> Figure 5E</b>
 
-Raw Data: blebb_data.csv \n
+Raw Data: blebb_data.csv<br>
 Jupyter Notebook: belb_quantification_Fig5.ipynb
 
 <br>
