@@ -23,6 +23,8 @@ Raw Data: height_pre_post.csv
 Jupyter Notebook: PLLP_Height_before_and_after_skinning.ipynb
 
 Figure 5E
+Raw Data: blebb_data.csv
+Jupyter Notebook: belb_quantification_Fig5.ipynb
 
 Figure 6G, N
 Raw Data: apical_intact_length.csv, apical_skinned_length.csv, apical_after_healing_length.csv, basal_intact_length.csv, basal_skinned_length.csv, basal_after_healing_length.csv
@@ -39,5 +41,5 @@ Jupyter Notebook: Radial_Direction_plots_Fig3_6_7.ipynb
 Figure 7E
 Raw Data: pre_post_matrigel_aggregated_with_embryos.csv
 Jupyter Notebook: Matrigel_Boxplots_Fig7.ipynb
-
+SAS statistics report: SAS_report_Fig7
 
