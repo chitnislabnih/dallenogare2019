@@ -10,7 +10,7 @@ Jupyter Notebook: Superficial_Cell_HeatMap_Fig2.ipynb
 <br>
 <b> Figure 2 - supplemental figure 2 </b>
 
-Raw Data: df_superficial_raw.csv, df_neuromast_raw<br>
+Raw Data: df_superficial_raw.csv, df_neuromast_raw.csv<br>
 Jupyter Notebook: Nuclear_Tracking.ipynb
 
 
