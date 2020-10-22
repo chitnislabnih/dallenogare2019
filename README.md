@@ -8,6 +8,13 @@ Raw Data: cell_positions.csv<br>
 Jupyter Notebook: Superficial_Cell_HeatMap_Fig2.ipynb
 
 <br>
+<b> Figure 2 - supplemental figure 2 </b>
+
+Raw Data: df_superficial_raw.csv, df_neuromast_raw<br>
+Jupyter Notebook: Nuclear_Tracking.ipynb
+
+
+<br>
 <b> Figure 3B, G, I, K, M</b>
 
 Raw Data: apical_intact_angle.csv, apical_DMSO_angle.csv, apical_SU5402_angle.csv, basal_DMSO_angle.csv, basal_SU5402_angle.csv<br>
